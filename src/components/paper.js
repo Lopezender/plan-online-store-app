@@ -20,12 +20,14 @@ export default function RowAndColumnSpacing() {
         <Grid item xs={6} >
           <Item> <h4>Monstera</h4>
 Monstera is a type of tropocal. plant that is popular
+<h3>$ 50.25</h3>
 
           </Item>
         </Grid>
         <Grid item xs={6}>
           <Item><h4>Aloe Vera</h4>
-          Aloe vera is a plant specie with thick fieshy leaves </Item>
+          Aloe vera is a plant specie with thick fieshy leaves 
+          <h3> $ 30.25</h3></Item>
         </Grid>
       </Grid>
     </Box>
